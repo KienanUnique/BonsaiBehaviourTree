@@ -69,8 +69,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Meta files for these are not important.
-LICENSE*.meta
-README*.meta
-
 /Experimental*
